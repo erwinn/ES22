@@ -1,0 +1,8 @@
+C:\Users\Erwin\Documents\School\S2\P4\ES22\CSharpSerialConnection\CSharpSerialConnection\bin\Debug\CSharpSerialConnection.exe
+C:\Users\Erwin\Documents\School\S2\P4\ES22\CSharpSerialConnection\CSharpSerialConnection\bin\Debug\CSharpSerialConnection.pdb
+C:\Users\Erwin\Documents\School\S2\P4\ES22\CSharpSerialConnection\CSharpSerialConnection\obj\Debug\CSharpSerialConnection.csprojResolveAssemblyReference.cache
+C:\Users\Erwin\Documents\School\S2\P4\ES22\CSharpSerialConnection\CSharpSerialConnection\obj\Debug\CSharpSerialConnection.Form1.resources
+C:\Users\Erwin\Documents\School\S2\P4\ES22\CSharpSerialConnection\CSharpSerialConnection\obj\Debug\CSharpSerialConnection.Properties.Resources.resources
+C:\Users\Erwin\Documents\School\S2\P4\ES22\CSharpSerialConnection\CSharpSerialConnection\obj\Debug\CSharpSerialConnection.csproj.GenerateResource.Cache
+C:\Users\Erwin\Documents\School\S2\P4\ES22\CSharpSerialConnection\CSharpSerialConnection\obj\Debug\CSharpSerialConnection.exe
+C:\Users\Erwin\Documents\School\S2\P4\ES22\CSharpSerialConnection\CSharpSerialConnection\obj\Debug\CSharpSerialConnection.pdb

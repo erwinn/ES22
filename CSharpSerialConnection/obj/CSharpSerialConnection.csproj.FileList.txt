@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CSharpSerialConnection.Form1.resources
+obj\Debug\CSharpSerialConnection.Properties.Resources.resources
+obj\Debug\CSharpSerialConnection.csproj.GenerateResource.Cache
+bin\Debug\CSharpSerialConnection.exe
+bin\Debug\CSharpSerialConnection.pdb
+obj\Debug\CSharpSerialConnection.exe
+obj\Debug\CSharpSerialConnection.pdb
